@@ -1,12 +1,12 @@
 # OrbitFabric F Prime Adapter
 
-Candidate `0.1.3` is unpublished and awaits review. See [candidate release notes](docs/releases/0.1.3.md). New releases use the canonical `github.com/OrbitFabric` authority.
+**Published release:** [`v0.1.3`](https://github.com/OrbitFabric/orbitfabric-fprime-adapter/releases/tag/v0.1.3) (2026-09-25), indexed in the [OrbitFabric Adapter Catalog](https://github.com/OrbitFabric/orbitfabric-adapter-catalog). New releases use the canonical `github.com/OrbitFabric` authority; historical release identities remain unchanged. Product publication does not promote Core-owned adapter lifecycle or integration contracts from candidate to stable.
 
 `orbitfabric-fprime-adapter` connects OrbitFabric mission contracts to native F Prime (F') projects.
 
 The adapter projects explicit OrbitFabric contract entities into FPP declaration fragments while preserving F Prime ownership of component architecture, instances, topology, scheduling and runtime behavior.
 
-> **Release baseline:** `0.1.2`. This patch preserves the accepted F Prime/FPP behavior of the `0.1` line while adding provider-native semantic reconciliation, clean local reproduction paths for both public Reference Examples and consolidated repository navigation.
+> **Current release baseline:** `0.1.3`. This post-migration patch normalizes release identity and active metadata without changing the adapter projection operation or the accepted F Prime 4.2.2 / FPP 3.2.0 compatibility lane. The two public Reference Examples introduced through earlier releases remain available.
 
 ## Choose your path
 
@@ -236,7 +236,7 @@ console command             orbitfabric-fprime
 adapter / integration id    orbitfabric-fprime
 logical key                 orbitfabric/fprime
 source coordinate           github.com/OrbitFabric:orbitfabric/fprime
-version                     0.1.2
+version                     0.1.3
 ```
 
 ## Documentation
@@ -262,6 +262,7 @@ version                     0.1.2
 
 ### Release
 
+- [0.1.3 release notes](docs/releases/0.1.3.md)
 - [0.1.2 release notes](docs/releases/0.1.2.md)
 - [0.1.1 release notes](docs/releases/0.1.1.md)
 - [0.1.0 release notes](docs/releases/0.1.0.md)

@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 ## Unreleased
 
+## 0.1.3 - 2026-09-25
+
+### Changed
+
+- Published the post-migration adapter identity `github.com/OrbitFabric:orbitfabric/fprime@0.1.3`, with matching package and release metadata.
+- Retained existing projection behavior, contract consumption and the exact F Prime 4.2.2 / FPP 3.2.0 compatibility lane.
+- Preserved historical release identities and their immutable descriptor and evidence references.
+
+### Publication
+
+- Published GitHub Release `v0.1.3` with `adapter-release.json`, the `0.1.3` wheel and `SHA256SUMS`.
+- Registered the exact published Release Descriptor digest in the canonical Adapter Catalog.
+- Publication does not promote candidate Core-owned adapter lifecycle or integration contracts, and does not itself establish a separate post-publication greenfield acceptance.
+
 ## 0.1.2
 
 ### Added
