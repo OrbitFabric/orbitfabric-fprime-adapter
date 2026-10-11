@@ -1,8 +1,8 @@
 # Getting Started
 
-This is the coordinated **unpublished** Core 1.4.0 / GitHub Release Source 0.1.0 / F Prime 0.1.3 candidate. The commands below become public acceptance commands only after approved publication and the exact F Prime descriptor digest is added to the canonical Catalog. No PyPI publication is assumed.
+Core [`v1.4.0`](https://github.com/OrbitFabric/orbitfabric/releases/tag/v1.4.0), GitHub Release Source [`v0.1.0`](https://github.com/OrbitFabric/orbitfabric-github-release-source/releases/tag/v0.1.0) and F Prime Adapter [`v0.1.3`](https://github.com/OrbitFabric/orbitfabric-fprime-adapter/releases/tag/v0.1.3) were published on 2026-09-25. The F Prime Release Descriptor digest is recorded in the canonical Catalog. These are published products; Core-owned adapter lifecycle and integration contracts retain candidate maturity. No PyPI publication is assumed. Publication and pre-publication HTTP replay do not by themselves establish post-publication clean-environment end-to-end acceptance.
 
-## Install the candidate after approved publication
+## Install the published release
 
 ```bash
 python3 -m venv .venv
@@ -98,7 +98,7 @@ Together they prove that:
 - generated dictionaries resolve the projected downstream identities;
 - provider-native FPP semantic observation agrees with the explicit Projection Profile and Integration Result intent.
 
-For a released version, use the matching `v0.1.2` source archive or checkout to access the Reference Example files and runner scripts. Keep the adapter product itself installed from the published release wheel.
+For this published version, use the matching `v0.1.3` source archive or checkout to access the Reference Example files and runner scripts. Keep the adapter product itself installed from the published release wheel.
 
 ## Where to go next
 
